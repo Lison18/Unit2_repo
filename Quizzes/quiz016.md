@@ -32,3 +32,7 @@ print(third)
 fourth = blackBoxThree("Create a function")
 print(fourth)
 ```
+
+### Proof of work
+
+<img width="469" alt="Screen Shot 2022-10-20 at 10 46 04 PM" src="https://user-images.githubusercontent.com/113830571/196966063-e08960da-c4d0-4d36-8ed6-198dc47c9622.png">
