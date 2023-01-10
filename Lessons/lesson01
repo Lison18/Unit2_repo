@@ -1,1 +1,24 @@
-test 1
+CS: Attributes of psychology books:
+
+authors
+paper
+editions
+size
+research literature
+pages
+book covers 
+reading
+library
+brain
+learning
+
+
+Methods: 
+
+fonctions: 
+get_author: returns the author
+get_edition: returns the edition 
+ 
+Create a new repository and put it on lessons 
+
+
