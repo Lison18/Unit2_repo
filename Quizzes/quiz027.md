@@ -11,8 +11,8 @@ red=250, green=100, blue=10
 
 # Solution
 ## Code 
+<img width="1440" alt="Screen Shot 2023-01-12 at 9 31 41 AM" src="https://user-images.githubusercontent.com/116609563/211965818-621e0456-6a4b-4940-bcac-746c9c068b98.png">
 
-<img width="1343" alt="Screen Shot 2023-01-12 at 9 33 11 AM" src="https://user-images.githubusercontent.com/116609563/211949448-f3dd0a75-a6f4-4818-a52c-d4cac24f2585.png">
 ## Proof of work 
+<img width="711" alt="Screen Shot 2023-01-12 at 9 31 56 AM" src="https://user-images.githubusercontent.com/116609563/211965850-5b021ebd-70ce-473b-8935-d5dc2b416baa.png">
 
-<img width="572" alt="Screen Shot 2023-01-12 at 9 33 39 AM" src="https://user-images.githubusercontent.com/116609563/211949467-69801373-6797-40d6-bba9-f179df6570da.png">
