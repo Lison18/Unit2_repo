@@ -8,6 +8,8 @@ How many different colors could you represent in a 6 bit computer?
 ## Code
 <img width="1440" alt="Screen Shot 2023-01-12 at 9 34 33 AM" src="https://user-images.githubusercontent.com/116609563/211958740-d6879f8c-c9ac-4e1d-9f80-75ef9fa99196.png">
 
+I could represent 64 different colors in a 6 bit computer.
+https://www.tutorialspoint.com/dip/concept_of_bits_per_pixel.htm
 ## Proof of work
 
 <img width="421" alt="Screen Shot 2023-01-12 at 9 34 45 AM" src="https://user-images.githubusercontent.com/116609563/211966712-c4375c5a-462c-445b-a8a4-fcca94055e85.png">
