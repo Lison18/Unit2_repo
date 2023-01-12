@@ -6,9 +6,9 @@ How many different colors could you represent in a 6 bit computer?
 
 # Solution
 ## Code
-<img width="1388" alt="Screen Shot 2023-01-12 at 9 36 54 AM" src="https://user-images.githubusercontent.com/116609563/211950029-741105ef-78d7-4f7c-9e3d-892660c8b094.png">
-
+<img width="1440" alt="Screen Shot 2023-01-12 at 9 34 33 AM" src="https://user-images.githubusercontent.com/116609563/211958740-d6879f8c-c9ac-4e1d-9f80-75ef9fa99196.png">
 
 ## Proof of work
 
-<img width="804" alt="Screen Shot 2023-01-12 at 9 37 14 AM" src="https://user-images.githubusercontent.com/116609563/211950054-460f722c-7345-4e2a-9d70-47a078568023.png">
+
+<img width="804" alt="Screen Shot 2023-01-12 at 9 37 14 AM" src="https://user-images.githubusercontent.com/116609563/211958753-aeed828c-9673-4b3d-8be5-5d01b82d9a81.png">
