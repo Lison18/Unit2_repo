@@ -13,7 +13,9 @@ red=10, green=255, blue=255
 
 # Solution 
 ## Code
-<img width="1440" alt="Screen Shot 2023-01-12 at 9 34 33 AM" src="https://user-images.githubusercontent.com/116609563/211949802-89a44915-4ab9-4d9d-b540-6b121ae73ec5.png">
+<img width="1343" alt="Screen Shot 2023-01-12 at 9 33 11 AM" src="https://user-images.githubusercontent.com/116609563/211958900-da6e561b-2d3f-4c18-af87-cea07e95e6fd.png">
+
 
 ## Proof of work 
-<img width="421" alt="Screen Shot 2023-01-12 at 9 34 45 AM" src="https://user-images.githubusercontent.com/116609563/211949814-21c57942-ddeb-4bcb-ab43-5e6667301f68.png">
+<img width="572" alt="Screen Shot 2023-01-12 at 9 33 39 AM" src="https://user-images.githubusercontent.com/116609563/211965714-ad5e887f-1cc9-4775-b5b0-45a295bc2f77.png">
+
