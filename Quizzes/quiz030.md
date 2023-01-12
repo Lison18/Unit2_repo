@@ -6,7 +6,9 @@ When was the internet first created? Remember to add your sources
 
 # Solution
 ## Code
-<img width="1440" alt="Screen Shot 2023-01-12 at 9 38 32 AM" src="https://user-images.githubusercontent.com/116609563/211958315-e4d0a228-4d4e-4588-874a-10b10cb096ab.png">
+
+<img width="1388" alt="Screen Shot 2023-01-12 at 9 36 54 AM" src="https://user-images.githubusercontent.com/116609563/211966606-017935f1-e75b-4f94-a450-5fb618cb62a5.png">
 
 
 ## Proof of work
+<img width="804" alt="Screen Shot 2023-01-12 at 9 37 14 AM" src="https://user-images.githubusercontent.com/116609563/211966621-11dfce2b-fb5e-441e-8914-7411cf59b490.png">
