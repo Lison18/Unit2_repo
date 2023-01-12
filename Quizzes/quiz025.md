@@ -5,7 +5,8 @@ Create a program shows the graph of the function below for 100 values of x in th
 # Solution
 ## code
 
-<img width="605" alt="Screen Shot 2023-01-12 at 9 28 51 AM" src="https://user-images.githubusercontent.com/116609563/211948819-c8fe3e2a-bc49-4ebd-b103-a88012b78ed3.png">
+<img width="793" alt="Screen Shot 2023-01-12 at 9 28 21 AM" src="https://user-images.githubusercontent.com/116609563/211966358-6350f04e-7daf-4bfc-b656-ce0ccb6a7c77.png">
+
 
 ## Proof of work
 
