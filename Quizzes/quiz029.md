@@ -10,5 +10,5 @@ How many different colors could you represent in a 6 bit computer?
 
 ## Proof of work
 
+<img width="421" alt="Screen Shot 2023-01-12 at 9 34 45 AM" src="https://user-images.githubusercontent.com/116609563/211966712-c4375c5a-462c-445b-a8a4-fcca94055e85.png">
 
-<img width="804" alt="Screen Shot 2023-01-12 at 9 37 14 AM" src="https://user-images.githubusercontent.com/116609563/211958753-aeed828c-9673-4b3d-8be5-5d01b82d9a81.png">
